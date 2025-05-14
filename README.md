@@ -45,6 +45,11 @@ This project demonstrates skills in:
 - Building interactive reports in Power BI
 - Helps to analyse the sales of items over different time period.
 
+- ## Short video link showing the dashboard functions:
+
+- https://drive.google.com/file/d/1sGxE0gCrXDqXRw09Wt6ZcneiU0gez5yM/view?usp=drive_link
+
+
 
 
 
